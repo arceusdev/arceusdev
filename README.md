@@ -20,7 +20,7 @@ I speak 🇫🇷 French, 🇬🇧 English, 🇪🇸 Spanish (and I know a bit of
   A Discord bot that recommends tracks daily, runs music challenges, displays historical events, and much more.
 
 - 🦅 [**Discord Watch**](https://discord.watch)  
-  Helped with translating the site and tested the new version during its beta phase.
+  A website that displays accurate stats for Discord apps. I helped with translating the site and tested the new version during its beta phase.
 
 - 🛡️ [**The DSP Project**](https://dsp-project.glitch.me/)  
   A project focused on cleaning up Discord by identifying scams and reporting sketchy activity. I was involved in investigations and reports.
