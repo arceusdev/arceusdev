@@ -14,13 +14,13 @@ I speak 🇫🇷 French, 🇬🇧 English, 🇪🇸 Spanish (and I know a bit of
 
 ---
 
-## 🚀 Projects I’ve worked on
+## 🚀 Projects I'm working on
 
 - 🎵 [**Daily Music**](https://daily-music.xyz)  
   A Discord bot that recommends tracks daily, runs music challenges, displays historical events, and much more.
 
 - 🛡️ [**The DSP Project**](https://dsp-project.glitch.me/)  
-  A project focused on cleaning up Discord by identifying scams and reporting sketchy activity. I was involved in investigations and reports.
+  A project focused on cleaning up Discord by identifying scams and reporting sketchy activity. I'm involved in investigations and reports.
 
 ---
 
