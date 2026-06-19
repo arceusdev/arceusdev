@@ -1,31 +1,3 @@
-# 👋🏻 Salut / Hey, I’m **Arceus**  
-I'm a French fullstack developer living in Canada 🇨🇦 – and I mostly build stuff around Discord.
-
----
-
-## 🙋🏻‍♂️ A bit about me
-
-I’ve been into programming for about 5 years now. I started with some small personal projects and launched my first big one: [**Daily Music**](https://daily-music.xyz), a Discord app that shares music recommendations every day (plus a bunch of other cool features).
-
-Since then, I’ve been involved in a few other projects that I really care about (you’ll find them below).
-
-When I’m not coding, I’m usually into **art**, watching **MMA**, diving into **business stuff**, or playing **video games**.  
-I speak 🇫🇷 French, 🇬🇧 English, 🇪🇸 Spanish (and I know a bit of 🇨🇳 Chinese too)!
-
----
-
-## 🚀 Projects I'm working on
-
-- 🎵 [**Daily Music**](https://daily-music.xyz)  
-  A Discord bot that recommends tracks daily, runs music challenges, displays historical events, and much more.
-
-- 🛡️ [**The DSP Project**](https://dsp-project.glitch.me/)  
-  A project focused on cleaning up Discord by identifying scams and reporting sketchy activity. I'm involved in investigations and reports.
-
----
-
-## 🛠️ Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -38,11 +10,3 @@ I speak 🇫🇷 French, 🇬🇧 English, 🇪🇸 Spanish (and I know a bit of
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-## 📬 Contact
-
-- 💬 Discord: [`@arceus_dev`](https://discord.com/users/1055478076013817936)  
-- 🐦 X / Twitter: [@arceus_dev](https://x.com/arceus_dev)
-  
----
